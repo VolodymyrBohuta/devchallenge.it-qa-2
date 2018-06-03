@@ -1,0 +1,13 @@
+resource	call_by		format
+Current		Coordinate	standart
+Current		ID		imperial
+Forecast	Coordinate	metric
+Forecast	Coordinate	imperial
+Current		Zip		metric
+Forecast	Zip		imperial
+Forecast	Name		metric
+Forecast	Zip		standart
+Forecast	ID		standart
+Current		Name		imperial
+Forecast	ID		metric
+Current		Name		standart
